@@ -69,9 +69,7 @@ http://localhost:5173
 
 📩 ارتباط با من:
 
-* PhoneNumber: 09184257619
 * Email: [parsamehrpooshan@gmail.com](mailto:example@gmail.com)
-* Instagram: parsa_mehr38
 
 ---
 
